@@ -8,7 +8,7 @@ my_dict = {'tuple': (True, 'Love', 'is', 'Python', 3),
 my_dict['list'].append('jabascript for me')
 my_dict['list'].pop(1)
 
-my_dict['dict']['sixth'] = 'so hard task'
+my_dict['dict']['i am a tuple'] = 'oops, miss condition for task'
 my_dict['dict'].pop('second')
 
 my_dict['set'].add(2023)
